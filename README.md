@@ -1,4 +1,4 @@
-# Exame de proficiência disciplina "Programação 1"
+# Exame de proficiência da disciplina "Programação 1"
 
 ## Sobre
 - Total de 4 questões, cada uma valendo 2.5
